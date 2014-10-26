@@ -402,7 +402,6 @@
 		30EE56B716E8A6550075330E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Developer ID Application";
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"\"$(SRCROOT)/GPGMail_Updater/Frameworks\"",
@@ -429,7 +428,6 @@
 		30EE56B816E8A6550075330E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Developer ID Application";
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"\"$(SRCROOT)/GPGMail_Updater/Frameworks\"",
